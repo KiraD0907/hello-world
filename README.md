@@ -1,2 +1,4 @@
 # hello-world
-First repository (for studies)
+
+Hi people! It's my first repository (for studies)
+=)
